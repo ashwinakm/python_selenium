@@ -1,4 +1,4 @@
-
+# This is an example of e2e web automation test case
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
